@@ -144,6 +144,8 @@ github.com/chaosblade-io/chaosblade-spec-go v0.8.0 h1:Lmlly8bWmX7UEvnXJQ7YA06kZb
 github.com/chaosblade-io/chaosblade-spec-go v0.8.0/go.mod h1:xUF+8r54FphQjBR8fVPnweVqzu7EitE15UsnZ57O5gk=
 github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201108140941-a6931a5bd582 h1:MdDslKGK817fxM9hiBOjRVfDy0mxjTBdGyXJ8IQyi4s=
 github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201108140941-a6931a5bd582/go.mod h1:aSlOG0ZXSM0k5adVS/XzkqlARPI9N6lUJM0H/3QgUdc=
+github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201109013413-d7de17a5e7de h1:LwXh1EZcWPzmjK2dt5UYE1BpXcpTgbRE+jbOdGLZA8w=
+github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201109013413-d7de17a5e7de/go.mod h1:qaZdY0weOUv4VUd6YPnyG0H0nJzJZSi83QF+veNibpA=
 github.com/chenhy97/chaosblade-exec-os v0.8.1-0.20201108132938-0c133c98d1e4 h1:RfUs2KO1SCeEqwLkSU/EEx/7dV3b7KllFtRd+efQyWU=
 github.com/chenhy97/chaosblade-exec-os v0.8.1-0.20201108132938-0c133c98d1e4/go.mod h1:iP17BuTi0PLweYvstSHgiaFVOQr3nWtXgnF4XTc5+lM=
 github.com/circonus-labs/circonus-gometrics v2.3.1+incompatible/go.mod h1:nmEj6Dob7S7YxXgwXpfOuvO54S+tGdZdw9fuRZt25Ag=
