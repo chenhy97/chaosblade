@@ -20,7 +20,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/chaosblade-io/chaosblade-exec-os/exec"
+	"github.com/chenhy97/chaosblade-exec-os/exec"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 )
 
