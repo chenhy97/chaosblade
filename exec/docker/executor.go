@@ -20,7 +20,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/chaosblade-io/chaosblade-exec-docker/exec"
+	"github.com/chenhy97/chaosblade-exec-docker/exec"
 	"github.com/chaosblade-io/chaosblade-spec-go/channel"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 )
