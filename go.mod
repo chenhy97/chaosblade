@@ -7,7 +7,7 @@ require (
 	github.com/chaosblade-io/chaosblade-exec-os v0.8.0
 	github.com/chaosblade-io/chaosblade-operator v0.8.0
 	github.com/chaosblade-io/chaosblade-spec-go v0.8.0
-	github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201108140941-a6931a5bd582
+	github.com/chenhy97/chaosblade-exec-docker v0.8.1-0.20201109013413-d7de17a5e7de
 	github.com/chenhy97/chaosblade-exec-os v0.8.1-0.20201108132938-0c133c98d1e4
 	github.com/mattn/go-sqlite3 v1.10.1-0.20190217174029-ad30583d8387
 	github.com/prometheus/common v0.9.1
